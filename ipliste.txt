@@ -1,0 +1,7 @@
+127.0.0.1
+127.0.0.0
+google.com
+bing.com
+youtube.com
+8.8.8.8
+192.168.1.1
